@@ -6,7 +6,7 @@ numOfTries = 6
 userInput = 0
 
 # start of game
-print("\nGuess the number from 1 to 100!")
+print("\nGuess the number from 1 to 50!")
 print(f"You have {numOfTries} attempts.")
 while numOfTries != 0:
     userInput = int(input())
